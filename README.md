@@ -6,7 +6,7 @@
 - 🌐 English y español
 - 🎓 BA Biology, [Colorado College](https://coloradocollege.edu) | PhD Genetic Epidemiology, [University of Melbourne](https://unimelb.edu.au)
 - 📍 Postdoctoral scientist at [Population Health and Immunity Division, Walter and Eliza Hall Institute of Medical Research](https://wehi.edu.au/people/ivo-mueller) | [University of Melbourne](https://unimelb.edu.au) | [Vector-Borne Diseases and Tropical Public Health Group, Burnet Institute](https://www.burnet.edu.au/people/701_shazia_ruybal)
-- 💜 Secretary and co-organizer of [R-Ladies Melbourne Inc](https://twitter.com/rladiesmelb)
+- 💜 President and co-organizer of [R-Ladies Melbourne Inc](https://twitter.com/rladiesmelb)
 
 #### My research focus and interests:
 - 🤝 applied ("field") epidemiology
